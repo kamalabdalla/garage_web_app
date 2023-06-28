@@ -1,0 +1,39 @@
+#home{
+  background: rgb(0, 101, 219);
+  background: linear-gradient(90deg, rgb(0, 101, 219) 50%, rgb(0, 212, 255, 1)100%);
+  min-height: 500px;
+}
+.form{
+  background: rgb(0, 101, 219);
+  background: linear-gradient(90deg, rgb(0, 101, 219) 50%, rgb(0, 212, 255, 1)100%);
+}
+
+
+.add_btn{
+  text-align: right;
+}
+
+.container{
+  overflow: auto;
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.left_view p{
+  font-weight: 600;
+}
+
+.left_view span{
+  font-weight: 400;
+}
+
+.right_view p{
+  font-weight: 600;
+}
+
+
+.right_view span{
+  font-weight: 400;
+}
